@@ -1,0 +1,12 @@
+Создайте и вызовите следующие лямбда выражения:
+ - Проверка является ли год високосным;
+ - Подсчет количества дней между 2 датами;
+ - Подсчет количества полных недель между датами;
+ - Подсчет дня недели по полученной дате например 20 июля 1969 года - воскресенье.
+
+
+ Create and call the following lambda expressions:
+ - Checking whether the year is a leap year;
+ - Counting the number of days between 2 dates;
+ - Counting the number of full weeks between dates;
+ - Counting the day of the week by the received date, for example, July 20, 1969 - Sunday.
