@@ -1,0 +1,12 @@
+Создайте вызовите следующий лямбда выражения:
+- Сумма двух дробей;
+- Разница двух дробей;
+- Произведение двух дробей;
+- Деление двух дробей.
+
+
+Create call the following lambda expressions:
+- The sum of two fractions;
+- The difference of two fractions;
+- The multiplication of two fractions;
+- The division of two fractions.
