@@ -1,0 +1,7 @@
+Создайте и вызовите следующие лямбда выражения. Обязательно использовать шаблоны.
+- Максимум из 4;
+- Минимум из 4.
+
+Create and call the following lambda expressions. Be sure to use templates.
+- Maximum of 4;
+- Minimum of 4.

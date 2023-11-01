@@ -1,0 +1,16 @@
+Создайте и вызовите следующее лямбда выражения. Обязательно использовать лямбду,
+как параметр метода. Метод находит сумму элементов массива которые соответствуют
+условию лямбда выражения. Варианты лямбда выражения:
+- Проверка на равенство конкретному числу;
+- Число не находится в диапазоне от А до В;
+- Проверка на положительность числа;
+- Проверка на отрицательные числа.
+
+
+Create and call the following lambda expressions. Be sure to use lambda as a method parameter.
+The method finds the sum of array elements that match the condition of the lambda expression.
+Variants of the lambda expression:
+- Checking for equality to a specific number;
+- The number is not in the range from A to B;
+- Checking for the positivity of the number;
+- Check for negative numbers.

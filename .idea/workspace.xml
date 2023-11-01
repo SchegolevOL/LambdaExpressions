@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="912e7349-2a8a-4907-ae53-50878c613a7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/taskText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/taskText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4/taskText.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698746644139</updated>
       <workItem from="1698746645156" duration="8720000" />
-      <workItem from="1698827432007" duration="1950000" />
+      <workItem from="1698827432007" duration="6243000" />
     </task>
     <task id="LOCAL-00001" summary="- Checking whether the year is a leap year;&#10;- Counting the number of days between 2 dates;">
       <option name="closed" value="true" />
@@ -93,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698756983612</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create call the following lambda expressions:&#10;- The sum of two fractions;&#10;- The difference of two fractions;&#10;- The multiplication of two fractions;&#10;- The division of two fractions.">
+      <option name="closed" value="true" />
+      <created>1698829478643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698829478643</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +113,7 @@
     <MESSAGE value="- Checking whether the year is a leap year;&#10;- Counting the number of days between 2 dates;" />
     <MESSAGE value="Counting the number of full weeks between dates;" />
     <MESSAGE value="finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+    <MESSAGE value="Create call the following lambda expressions:&#10;- The sum of two fractions;&#10;- The difference of two fractions;&#10;- The multiplication of two fractions;&#10;- The division of two fractions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create call the following lambda expressions:&#10;- The sum of two fractions;&#10;- The difference of two fractions;&#10;- The multiplication of two fractions;&#10;- The division of two fractions." />
   </component>
 </project>
